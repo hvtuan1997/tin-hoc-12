@@ -1,0 +1,7 @@
+Kiểu Ngăn xếp (Stack) và kiểu Hàng đợi (Queue) sử dụng List (danh sách) để lưu trữ các giá trị phần tử
+Đối với Hàng đợi:
+    - Chỉ số phần tử đầu của Hàng đợi là 0.
+    - Chỉ số phần tử cuối của Hàng đợi là n - 1, trong đó n = len(Q).
+So sánh với chỉ số phần tử đáy và đỉnh của Ngăn xếp:
+    - Chỉ số đầu (front - F) của hàng đợi là chỉ số đáy (bottom) của ngăn xếp.
+    - Chỉ số cuối (rear - R) của hàng đợi là chỉ số đỉnh (top) của ngăn xếp.

@@ -1,0 +1,8 @@
+Stt          Hàm của ngăn xếp       Hàm của hàng đợi            So sánh
+1            S = Stack()            Q = Queue()                 Giống nhau
+2            push(S, x)             enqueue(Q, x)               Giống nhau
+3            pop(S)                 dequeue(Q)                  Ngăn xếp: loại bỏ và trả về phần tử đỉnh
+                                                                Hàng đợi: loại bỏ và trả về phần tử đầu
+4            is_empty(S)            is_empty(Q)                 Giống nhau
+5            top(S)                 front(Q)                    Ngăn xếp: trả về giá trị phần tử đỉnh
+                                                                Hàng đợi: trả về giá trị phần tử đầu
